@@ -1,6 +1,6 @@
 # Encrypt
-## Encrypt all files under vault
-# vault/** filter=git-crypt diff=git-crypt
+## Encrypt all files under script
+script/** filter=git-crypt diff=git-crypt
 
 ## Encrypt all txt files
 *.txt filter=git-crypt diff=git-crypt
